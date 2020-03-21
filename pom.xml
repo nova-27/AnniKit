@@ -25,7 +25,7 @@
         </dependency>
 
         <dependency>
-            <groupId>om.hotmail.AdrianSRJose</groupId>
+            <groupId>com.hotmail.AdrianSRJose</groupId>
             <artifactId>AnniPro</artifactId>
             <version>1.0</version>
             <scope>system</scope>
@@ -33,7 +33,7 @@
         </dependency>
 
         <dependency>
-            <groupId>om.hotmail</groupId>
+            <groupId>com.hotmail</groupId>
             <artifactId>AdrianSRJose</artifactId>
             <version>1.0</version>
             <scope>system</scope>
